@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in R programming related to the handling of NA values when calculating the mean. The `bug.R` file shows the problematic code, while `bugSolution.R` illustrates the corrected approach.
